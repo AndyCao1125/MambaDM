@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <h1 align="center">
-    <img src="path/to/your/image.png" alt="Mamba Logo" style="vertical-align: middle; width: 50px; height: auto;">Mamba as Decision Maker:<br />
+    <img src="Figs/logo.jpg" alt="Mamba Logo" style="vertical-align: middle; width: 60px; height: auto;">Mamba as Decision Maker:<br />
             Exploring Multi-scale Sequence Modelling in <br />
     Offline Reinforcement Learning
 </h1>
