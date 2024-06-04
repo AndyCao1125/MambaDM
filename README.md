@@ -10,11 +10,18 @@
     Qiang Zhang,
     Ziqing Wang,
     Jiaxu Wang,
-    Hao Cheng,
+    Hao Cheng, <br />
+    Yecheng Shao,
+    Wen Zhao,
+    Gang Han,
+    Yijie Guo,
     Renjing Xu<sup>†</sup>,
   </p>
   <p align="center" >
-    <em>HKUST(GZ) & Northwestern University </em> 
+    <em>The Hong Kong University of Science and Technology (Guangzhou)</em>   <br />
+    <em>Northwestern University</em> <br />
+    <em>Beijing Innovation Center of Humanoid Robotics <em> <br />
+     <em> Center for X-Mechanics, Zhejiang University <em>
   </p>
   <p align="center">
     <a href='https://arxiv.org/abs/2309.09297'>
