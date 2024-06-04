@@ -18,10 +18,10 @@
     <strong>Renjing Xu</strong><sup>1 †</sup>,
   </p>
   <p align="center">
-  <small>The Hong Kong University of Science and Technology (Guangzhou)</small><br>
-  <small>Northwestern University</small><br>
-  <small>Beijing Innovation Center of Humanoid Robotics</small><br>
-  <small>Center for X-Mechanics, Zhejiang University</small>
+  <small>The Hong Kong University of Science and Technology (Guangzhou)<sup> 1</sup></small><br>
+  <small>Northwestern University<sup> 2</sup></small><br>
+  <small>Beijing Innovation Center of Humanoid Robotics<sup> 3</sup></small><br>
+  <small>Center for X-Mechanics, Zhejiang University<sup> 4</sup></small>
   </p>
   <p align="center">
     <a href='https://arxiv.org/abs/2309.09297'>
