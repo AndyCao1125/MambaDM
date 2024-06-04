@@ -17,11 +17,11 @@
     <strong>Yijie Guo<sup>3</sup></strong>,
     <strong>Renjing Xu</strong><sup>1 †</sup>,
   </p>
-  <p align="center" style="font-size: small;">
-    The Hong Kong University of Science and Technology (Guangzhou)<sup>1</sup>   <br />
-    Northwestern University <sup>2</sup><br />
-    Beijing Innovation Center of Humanoid Robotics <sup>3</sup><br />
-    Center for X-Mechanics, Zhejiang University <sup>4</sup>
+  <p align="center">
+  <small>The Hong Kong University of Science and Technology (Guangzhou)</small><br>
+  <small>Northwestern University</small><br>
+  <small>Beijing Innovation Center of Humanoid Robotics</small><br>
+  <small>Center for X-Mechanics, Zhejiang University</small>
   </p>
   <p align="center">
     <a href='https://arxiv.org/abs/2309.09297'>
