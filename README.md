@@ -9,6 +9,7 @@
     <strong>Jiahang Cao<sup>1 *</sup></strong>,
     <strong>Qiang Zhang<sup>1 *</sup></strong>,
     <strong>Ziqing Wang<sup>2</sup></strong>,
+    <strong>Jingkai Sun<sup>1</sup></strong>,
     <strong>Jiaxu Wang<sup>1</sup></strong>,
     <strong>Hao Cheng<sup>1</sup></strong>, <br />
     <strong>Yecheng Shao<sup>4</sup></strong>,
